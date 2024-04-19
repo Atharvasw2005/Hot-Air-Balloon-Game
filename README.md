@@ -1,4 +1,4 @@
-![Screenshot 2024-04-18 151720](https://github.com/Atharvasw2005/Hot-Air-Balloon-Game/assets/112737988/8a24e030-23ef-4c18-a2b1-77f3bd3db51c)# Hot Air Balloon Game
+# Hot Air Balloon Game
 
 "Hot Air Balloon Adventure" is an exciting game developed using Visual Studio 2022 and implemented in VB.NET. The game offers players a thrilling experience of navigating a hot air balloon through various landscapes while overcoming obstacles and collecting rewards. Here's a breakdown of its key features and structure:
 
@@ -16,5 +16,6 @@ The Hot Air Balloon Adventure game offers an immersive and entertaining experien
 
 ![Screenshot 2024-04-18 151711](https://github.com/Atharvasw2005/Hot-Air-Balloon-Game/assets/112737988/3cebd4ff-d62b-46ce-8372-ff43c06c2e6a)
 ![Screenshot 2024-04-18 151738](https://github.com/Atharvasw2005/Hot-Air-Balloon-Game/assets/112737988/3461cfa6-d228-4d74-a70d-16212722142a)
+![Screenshot 2024-04-18 151720](https://github.com/Atharvasw2005/Hot-Air-Balloon-Game/assets/112737988/8a24e030-23ef-4c18-a2b1-77f3bd3db51c)
 ![Screenshot 2024-04-18 151838](https://github.com/Atharvasw2005/Hot-Air-Balloon-Game/assets/112737988/de122500-a980-4103-aa2b-3c1c5cda2cba)
 
